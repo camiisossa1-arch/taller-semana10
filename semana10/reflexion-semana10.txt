@@ -1,1 +1,7 @@
-Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten trabajar por entregas pequeñas y recibir feedback rápido. La automatización con herramientas como n8n reduce el trabajo manual y asegura que las alertas lleguen a tiempo. Usar canales como Telegram facilita la comunicación inmediata entre ciudadanos y coordinadores. Esto mejora la trazabilidad de los casos y hace que la participación ciudadana sea más activa. Al dividir el trabajo en iteraciones se puede mejorar el proyecto poco a poco. Además, tener un backlog priorizado ayuda a enfocar los esfuerzos en lo más urgente. En conclusión, estas herramientas hacen los procesos más transparentes y eficientes.
+Reflexión Semana 10
+
+1. ¿Cómo ayudan las metodologías ágiles a organizar mejor una comunidad?
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten trabajar por entregas pequeñas e iteraciones. Esto hace que el proyecto mejore poco a poco, se reciba feedback rápido y se pueda priorizar lo más urgente usando un backlog. Además mejora la trazabilidad de los casos y hace que la participación ciudadana sea más activa.
+
+2. ¿Qué ventaja tiene automatizar con herramientas como n8n y Telegram?
+La ventaja de automatizar con n8n y Telegram es que se reduce el trabajo manual y se asegura que las alertas lleguen a tiempo. Usar canales como Telegram facilita la comunicación inmediata entre ciudadanos y coordinadores. En conclusión, estas herramientas hacen los procesos más transparentes y eficientes.
