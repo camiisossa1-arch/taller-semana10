@@ -1,0 +1,12 @@
+Evento: Se registra un nuevo reporte ciudadano en el sistema.
+
+Acción: n8n detecta el nuevo reporte y envía un mensaje a Telegram.
+
+Mensaje: "⚠️ Nuevo reporte recibido. ID: #1234. Revisar sistema para más detalles."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos
+- Documentos de identidad
+- Direcciones exactas
+- Teléfonos
+- Fotos con datos sensibles
